@@ -5,7 +5,6 @@ __docformat__ = 'reStructuredText'
 
 import sys
 import os
-import psutil
 
 
 # Program return codes.
