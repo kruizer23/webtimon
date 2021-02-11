@@ -47,6 +47,9 @@ could not be read of does not equal "Welcome to example.com". The SMS message wi
 **0**
 : Success
 
+**1**
+: Could not send SMS
+
 # AUTHOR
 
 Written by Frank Voorburg.
